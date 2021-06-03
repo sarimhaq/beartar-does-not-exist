@@ -5,8 +5,8 @@ const fs = require('fs');
 const data = require('./data.js');
 
 let latentSize = 15;
-let epochs = 50;
-let batchSize = 11;
+let epochs = 800;
+let batchSize = 9;
 
 
 //image 340x420
